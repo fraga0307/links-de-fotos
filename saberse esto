@@ -1,0 +1,6 @@
+https://images.pexels.com/photos/19677/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=500
+
+control s
+
+git add . (y presiona Enter)
+git commit -m "Cambie el color a morado"
